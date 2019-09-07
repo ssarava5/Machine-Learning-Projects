@@ -1,2 +1,4 @@
 # Machine-Learning-Projects
-ML Projects
+It is my ML Projects
+
+Developed during my Big Data certification from Fore School Management and UCR
